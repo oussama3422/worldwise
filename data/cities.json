@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17800051"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "54554"
+    },
+    {
+      "cityName": "Marrakech",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "A beautiful city with rich history and vibrant culture!",
+      "position": {
+        "lat": 31.6295,
+        "lng": -7.9811
+      },
+      "id": "12345678"
+    },
+    {
+      "id": "18dc",
+      "cityName": "Valderas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-04T11:16:40.328Z",
+      "notes": "hh",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "-5.427246093750001"
+      }
+    },
+    {
+      "id": "4c31",
+      "cityName": "El Jadida",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-09-04T11:18:45.365Z",
+      "notes": "EL jadida test.",
+      "position": {
+        "lat": "33.24586606350429",
+        "lng": "-8.500671386718752"
+      }
+    },
+    {
+      "id": "e88b",
+      "cityName": "Lepinas",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-04T15:24:28.491Z",
+      "notes": "Test",
+      "position": {
+        "lat": "46.07323062540835",
+        "lng": "1.9335937500000002"
+      }
+    }
+  ]
+}
